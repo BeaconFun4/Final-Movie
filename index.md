@@ -46,11 +46,13 @@ window.addEventListener('DOMContentLoaded', function(){
     document.getElementById('forkme_banner').remove();
     document.getElementById('project_title').innerHTML = title;
     document.getElementById('project_tagline').innerHTML = subTitle;
+    document.getElementById('no_js_h1').style.display = 'none';
+    document.getElementById('no_js_h3').style.display = 'none';
 });
 </script>
 
-# ビーコンIoTで函館のまちをハックする
-### Beacon FUN 4
+<h1 id="no_js_h1">ビーコンIoTで函館のまちをハックする</h1>
+<h3 id="no_js_h3">Beacon FUN 4</h3>
 
 ## 紹介動画
 
