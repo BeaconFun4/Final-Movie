@@ -91,7 +91,7 @@ window.addEventListener('DOMContentLoaded', function(){
 ## 活動内容
 <div align="center">
   <a href="https://beaconfun4.github.io/Final-Movie/image/activities.png" target="_blank">
-    <img src="image/activities.png" alt="Activities" />
+    <img src="image/activities.png" alt="Activities" widht="100%" />
   </a>
 </div>
 
