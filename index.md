@@ -50,7 +50,7 @@ window.addEventListener('DOMContentLoaded', function(){
 </script>
 
 # ビーコンIoTで函館のまちをハックする
-## Beacon FUN 4
+### Beacon FUN 4
 
 ## 紹介動画
 
