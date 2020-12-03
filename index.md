@@ -83,10 +83,11 @@ window.addEventListener('DOMContentLoaded', function(){
 
 ## サービス
 
-<a href="https://beaconfun4.github.io/Final-Movie/image/service.png" target="_blank">
-  <div align="center">
+<div align="center">
+  <a href="https://beaconfun4.github.io/Final-Movie/image/service.png" target="_blank">
     <img src="image/service.png" alt="Services" style="width: 80%;"/>
-  </div>
-</a>
+  </a>
+</div>
+
 <br>
 
