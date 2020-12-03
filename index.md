@@ -50,6 +50,12 @@
 
 <script>
 window.addEventListener('DOMContentLoaded', function(){
+    var link = document.createElement('link');
+    link.type = 'image/x-icon';
+    link.rel = 'shortcut icon';
+    link.href = "/Final-Movie/favicon.ico"
+    document.getElementsByTagName('head')[0].appendChild(link)
+
     var title = 'ビーコンIoTで函館のまちをハックする';
     var subTitle = 'Beacon FUN 4';
     document.title = subTitle;
@@ -60,8 +66,6 @@ window.addEventListener('DOMContentLoaded', function(){
     document.getElementById('no_js_h3').style.display = 'none';
 });
 </script>
-
-<link rel="shortcut icon" type="image/x-icon" href="/Final-Movie/favicon.ico">
 
 <h1 id="no_js_h1">ビーコンIoTで函館のまちをハックする</h1>
 <h3 id="no_js_h3">Beacon FUN 4</h3>
