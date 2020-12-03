@@ -58,10 +58,7 @@ The purpose is to create new value and provide people unique experiences and att
 - The device is able to measure distance between it and the receiver, identify individual devices
 
 ## ３．活動内容
-![Activities](image/activities.png)
-
+<img src="image/activities.png" alt="Activities"; />
 
 ## ４．サービス
-
-![Services](image/service.png)
-
+<img src="image/service.png" alt="Services" style="zoom:80%;" />
