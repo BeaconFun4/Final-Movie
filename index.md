@@ -63,5 +63,5 @@ The purpose is to create new value and provide people unique experiences and att
 
 ## ４．サービス
 
-![Services](image/services.png)
+![Services](image/service.png)
 
