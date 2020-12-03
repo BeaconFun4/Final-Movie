@@ -84,7 +84,9 @@ window.addEventListener('DOMContentLoaded', function(){
 ## サービス
 
 <a href="https://beaconfun4.github.io/Final-Movie/image/service.png">
-  <img src="image/service.png" alt="Services" style="zoom:80%;" />
+  <div align="center">
+    <img src="image/service.png" alt="Services" style="width: 80%;"/>
+  </div>
 </a>
 <br>
 
