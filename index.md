@@ -33,6 +33,10 @@
         width: 100%;
         height: 100%;
     }
+
+    div {
+        box-sizing: border-box;
+    }
 </style>
 
 <script>
