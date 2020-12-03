@@ -61,6 +61,8 @@ window.addEventListener('DOMContentLoaded', function(){
 });
 </script>
 
+<link rel="shortcut icon" type="image/x-icon" href="/Final-Movie/favicon.ico">
+
 <h1 id="no_js_h1">ビーコンIoTで函館のまちをハックする</h1>
 <h3 id="no_js_h3">Beacon FUN 4</h3>
 
