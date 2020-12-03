@@ -34,7 +34,7 @@
         height: 100%;
     }
 
-    div {
+    div, img {
         box-sizing: border-box;
     }
 </style>
