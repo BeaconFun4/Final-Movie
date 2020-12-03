@@ -11,7 +11,7 @@
         display: none;
     }
 
-    #main_content.inner {
+    .inner {
         max-width: 720px;
     }
 
