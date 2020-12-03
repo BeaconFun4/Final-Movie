@@ -68,4 +68,4 @@ The purpose is to create new value and provide people unique experiences and att
 <img src="image/activity.png" alt="Activities"; />
 
 ## ４．サービス
-<img src="image/service.png" alt="Services" style="zoom:75%;" />
+<img src="image/service.png" alt="Services" style="zoom:80%;" />
