@@ -37,6 +37,10 @@
     div, img {
         box-sizing: border-box;
     }
+
+    h2 {
+        padding-top: 1em;
+    }
 </style>
 
 <script>
@@ -59,13 +63,12 @@ window.addEventListener('DOMContentLoaded', function(){
 </div>
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=BF4最終発表&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #BF4最終発表</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br>
+
 
 ## 目的
 
 ビーコンを函館のまちの様々な場所に設置し、ビーコンを活用したサービスを開発する。それによって、新たな価値を生み出し、利用者にこれまでにない体験や魅力を提供することが目的である。
 > The purpose is to create new value and provide people unique experiences and attractions. We Install beacons in Hakodate real downtown, and develop services that utilize beacons. 
-<br>
 
 ## ビーコンの特徴
 
@@ -77,7 +80,6 @@ window.addEventListener('DOMContentLoaded', function(){
 
 - ビーコンから受信端末までの距離の計測、個体の識別が可能
 > The device is able to measure distance between it and the receiver, identify individual devices
-<br>
 
 ## 活動内容
 <div align="center">
@@ -85,7 +87,6 @@ window.addEventListener('DOMContentLoaded', function(){
     <img src="image/activities.png" alt="Activities" />
   </a>
 </div>
-<br>
 
 ## サービス
 
@@ -94,6 +95,3 @@ window.addEventListener('DOMContentLoaded', function(){
     <img src="image/service.png" alt="Services" style="width: 80%;"/>
   </a>
 </div>
-
-<br>
-
