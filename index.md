@@ -7,6 +7,10 @@
 </div>
 
 <style>
+    #forkme_banner {
+        display: none;
+    }
+
     .yt-wrapper {
         position: relative;
         width: 100%;
