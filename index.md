@@ -11,6 +11,11 @@
         display: none;
     }
 
+    #project_tagline {
+        font-size: 32px;
+        text-align: center;
+    }
+
     .inner {
         max-width: 720px;
     }
