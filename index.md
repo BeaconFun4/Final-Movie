@@ -25,6 +25,12 @@
     }
 </style>
 
+<script>
+window.addEventListener('load', function(){
+    document.getElementById('formke_banner').remove();
+});
+</script>
+
 ## １．目的
 
 ## ２．ビーコンの特徴
