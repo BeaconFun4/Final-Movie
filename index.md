@@ -70,7 +70,7 @@ window.addEventListener('DOMContentLoaded', function(){
     <iframe src="https://www.youtube.com/embed/s91rVjF6vxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="BF4最終発表,未来大プロジェクト学習" data-count="none" data-lang="ja" data-url="https://beaconfun4.github.io/Final-Movie/" data-text="">ツイート</a>
+<a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="BF4最終発表,未来大プロジェクト学習" data-count="none" data-lang="ja" data-url="https://beaconfun4.github.io/Final-Movie/" data-text=" ">ツイート</a>
 <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
 
