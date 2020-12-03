@@ -2,7 +2,7 @@
 
 ## 紹介動画
 
-<div align="center"><iframe width="100%" src="https://www.youtube.com/embed/s91rVjF6vxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe src="https://www.youtube.com/embed/s91rVjF6vxQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## １．目的
 
