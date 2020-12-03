@@ -11,6 +11,10 @@
         display: none;
     }
 
+    #main_content.inner {
+        max-width: 720px;
+    }
+
     .yt-wrapper {
         position: relative;
         width: 100%;
