@@ -76,14 +76,14 @@ window.addEventListener('DOMContentLoaded', function(){
 
 ## 活動内容
 
-<a href="https://beaconfun4.github.io/Final-Movie/image/activities.png">
+<a href="https://beaconfun4.github.io/Final-Movie/image/activities.png" target="_blank">
   <img src="image/activities.png" alt="Activities" />
 </a>
 <br>
 
 ## サービス
 
-<a href="https://beaconfun4.github.io/Final-Movie/image/service.png">
+<a href="https://beaconfun4.github.io/Final-Movie/image/service.png" target="_blank">
   <div align="center">
     <img src="image/service.png" alt="Services" style="width: 80%;"/>
   </div>
