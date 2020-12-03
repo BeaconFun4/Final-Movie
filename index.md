@@ -41,6 +41,10 @@
     h2 {
         padding-top: 1em;
     }
+
+    h1, h2, h3 {
+        text-align: center;
+    }
 </style>
 
 <script>
