@@ -57,20 +57,20 @@ window.addEventListener('DOMContentLoaded', function(){
 
 ## １．目的
 ビーコンを函館のまちの様々な場所に設置し、ビーコンを活用したサービスを開発する。それによって、新たな価値を生み出し、利用者にこれまでにない体験や魅力を提供することが目的である。
-The purpose is to create new value and provide people unique experiences and attractions. We Install beacons in Hakodate real downtown, and develop services that utilize beacons. 
+> The purpose is to create new value and provide people unique experiences and attractions. We Install beacons in Hakodate real downtown, and develop services that utilize beacons. 
 
 ## ２．ビーコンの特徴
 - スマートフォンで受信可能なBluetoothで通信を行う小さなデバイス
-- Beacon is a small device that communicate via Bluetooth which can be received by smartphones
+> Beacon is a small device that communicate via Bluetooth which can be received by smartphones
 
 - バッテリー消費の少ないBLE (Bluetooth Low Energy) を採用
-- The devices uses BLE (Bluetooth Low Energy) which is low battery consumption
+> The devices uses BLE (Bluetooth Low Energy) which is low battery consumption
 
 - ビーコンから受信端末までの距離の計測、個体の識別が可能
-- The device is able to measure distance between it and the receiver, identify individual devices
+> The device is able to measure distance between it and the receiver, identify individual devices
 
 ## ３．活動内容
-<img src="image/activities.png" alt="Activities"; />
+<img src="image/activities.png" alt="Activities" />
 
 ## ４．サービス
 <img src="image/service.png" alt="Services" style="zoom:80%;" />
