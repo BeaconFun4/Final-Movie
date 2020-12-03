@@ -50,7 +50,8 @@
 <script>
 window.addEventListener('DOMContentLoaded', function(){
     var title = 'ビーコンIoTで函館のまちをハックする';
-    var subTitle = 'Beacon FUN 4'
+    var subTitle = 'Beacon FUN 4';
+    document.title = subtitle;
     document.getElementById('forkme_banner').remove();
     document.getElementById('project_title').innerHTML = title;
     document.getElementById('project_tagline').innerHTML = subTitle;
