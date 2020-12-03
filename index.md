@@ -31,7 +31,7 @@
 
 <script>
 window.addEventListener('load', function(){
-    document.getElementById('formke_banner').remove();
+    document.getElementById('forkme_banner').remove();
 });
 </script>
 
