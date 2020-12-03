@@ -34,7 +34,7 @@
 </style>
 
 <script>
-window.addEventListener('load', function(){
+window.addEventListener('DOMContentLoaded', function(){
     var title = 'ビーコンを使って函館のまちをハックする';
     var subTitle = '- Beacon Fun 4'
     document.getElementById('forkme_banner').remove();
